@@ -1,0 +1,183 @@
+baseURL = "https://buymetalpowder.com/"
+languageCode = "en-us"
+title = "Buy Metal Powder"
+theme = "printwire"
+
+[params]
+tagline       = "Source certified DMLS and SLM metal powder direct — titanium, steel, aluminium, and nickel superalloys with lot certification."
+description   = "Buy Metal Powder is the purchasing resource for metal AM feedstock — price comparison, supplier qualification, and certified powder sourcing for industrial DMLS and SLM operations."
+keywords      = "buy metal powder, DMLS powder supplier, SLM powder purchase, titanium powder buy, Inconel powder, metal AM feedstock sourcing"
+logoEmoji     = "⚗️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#94a3b8"
+colorPrimaryDark  = "#7a8fa5"
+colorPrimaryLight = "#b8c7d9"
+colorBgDark       = "#06070d"
+colorBgSection    = "#09090f"
+colorBgCard       = "#0e0f18"
+colorBgCardHover  = "#121320"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Space+Grotesk"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+
+heroEyebrow  = "Metal Powder Sourcing"
+heroTitle    = "Buy <em>Metal Powder</em>"
+heroSubtitle = "Source certified DMLS and SLM metal powder direct — titanium, steel, aluminium, and nickel superalloys with lot certification."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+overviewTitle   = "Certified Powder, Direct from Source"
+overviewText    = "Cut out the middleman. Lot-certified metal powder from qualified atomisers shipped direct to your facility — minimum orders from 5kg."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Buy Metal Powder Services"
+servicesSubtitle = "Source certified DMLS and SLM metal powder direct — titanium, steel, aluminium, and nickel superalloys with lot certification."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Source certified DMLS and SLM metal powder direct — titanium, steel, aluminium, and nickel superalloys with lot certification."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 5
+suffix = "kg"
+label  = "Minimum Order"
+
+[[params.stats]]
+count  = 3
+suffix = "days"
+label  = "Delivery Lead Time"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Alloys in Stock"
+
+[[params.stats]]
+count  = 99.9
+suffix = "%"
+label  = "Chemical Purity"
+
+
+[[params.applications]]
+title       = "Aerospace Titanium"
+description = "Ti6Al4V ELI powder for flight-critical DMLS production — AMS 4999 certified."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Medical Steel"
+description = "316L and CoCr ASTM-certified powder for implant and instrument manufacture."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Aluminium Alloys"
+description = "AlSi10Mg and Scalmalloy for lightweight structural and automotive parts."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Superalloys"
+description = "Inconel 718 and 625 for high-temperature turbine and energy applications."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Titanium Powder"
+description = "Ti6Al4V Grade 5 and ELI — plasma atomised, 15–45µm DMLS grade. AMS 4999 and ASTM B348 certifiable."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Steel & Stainless"
+description = "316L, 17-4 PH, MS1 maraging — chemically certified and lot-tested. 5kg minimum order."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Nickel Superalloys"
+description = "IN718, IN625, and Hastelloy — chemistry certified, LPBF-optimised particle distribution."
+
+[[params.servicesPreview]]
+icon        = "🧪"
+title       = "Powder Qualification"
+description = "Supplier qualification support — PSD, chemistry, and morphology reports for AS9100 and ISO 13485 compliance."
+
+
+[[params.services]]
+name        = "Titanium Powder"
+description        = "Ti6Al4V Grade 5 and ELI — plasma atomised, 15–45µm DMLS grade. AMS 4999 and ASTM B348 certifiable."
+icon        = "⚗️"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Steel & Stainless"
+description        = "316L, 17-4 PH, MS1 maraging — chemically certified and lot-tested. 5kg minimum order."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Nickel Superalloys"
+description        = "IN718, IN625, and Hastelloy — chemistry certified, LPBF-optimised particle distribution."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Powder Qualification"
+description        = "Supplier qualification support — PSD, chemistry, and morphology reports for AS9100 and ISO 13485 compliance."
+icon        = "🧪"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprinttitanium.com"
+url         = "https://3dprinttitanium.com"
+description = "Titanium 3D printing"
+
+[[params.clusterLinks]]
+name        = "steel3dprint.com"
+url         = "https://steel3dprint.com"
+description = "Steel 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
