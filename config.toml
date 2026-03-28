@@ -22,7 +22,7 @@ colorBgCardHover  = "#121320"
 fontPrimary   = "Orbitron"
 fontSecondary = "Space+Grotesk"
 
-newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+newsFallbackImages = ["/images/fallback1.png", "/images/fallback2.png", "/images/fallback3.png"]
 
 heroEyebrow  = "Metal Powder Sourcing"
 heroTitle    = "Buy <em>Metal Powder</em>"
@@ -31,7 +31,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+heroImage    = "/images/hero.png"
 
 overviewTitle   = "Certified Powder, Direct from Source"
 overviewText    = "Cut out the middleman. Lot-certified metal powder from qualified atomisers shipped direct to your facility — minimum orders from 5kg."
@@ -73,22 +73,22 @@ label  = "Chemical Purity"
 [[params.applications]]
 title       = "Aerospace Titanium"
 description = "Ti6Al4V ELI powder for flight-critical DMLS production — AMS 4999 certified."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-aerospace.png"
 
 [[params.applications]]
 title       = "Medical Steel"
 description = "316L and CoCr ASTM-certified powder for implant and instrument manufacture."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-medical.png"
 
 [[params.applications]]
 title       = "Aluminium Alloys"
 description = "AlSi10Mg and Scalmalloy for lightweight structural and automotive parts."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-industrial.png"
 
 [[params.applications]]
 title       = "Superalloys"
 description = "Inconel 718 and 625 for high-temperature turbine and energy applications."
-image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+image       = "/images/app-energy.png"
 
 
 [[params.servicesPreview]]
